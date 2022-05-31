@@ -8,7 +8,7 @@ Site da disciplina "Direitos Humanos e Educação", oferecida ao 07º período d
 
 ---
 
- ## ***Aula 01***
+## ***Aula 01***
 
 ### *Ementa da disciplina*
 
