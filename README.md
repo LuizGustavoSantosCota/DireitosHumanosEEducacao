@@ -2,13 +2,15 @@
 
 # **Direitos Humanos e Educação**
 
-Disciplina oferecida ao 7º período do curso de Pedagogia da UEMG, Unidade Barbacena.
+Site da disciplina "Direitos Humanos e Educação", oferecida ao 07º período do curso de Pedagogia, da Universidade do Estado de Minas Gerais (UEMG), Unidade Barbacena. 
 
 **Prof. Dr. Luiz Gustavo Santos Cota**
 
 ---
+<details><summary>Aula 01: Apresentação e introdução aos fundamentos para os Direitos Humanos</summary>
+<p>
 
-## ***Aula 01***
+ ## ***Aula 01***
 
 ### *Ementa da disciplina*
 
@@ -177,10 +179,11 @@ A famosa primeira emenda:
 [STORCK, Alfredo. Direitos Humanos. In: TORRES, João Carlos Brum. **Manual de ética**: questões de ética teórica e aplicada. Petrópolis: Vozes; Caxias do Sul: Universidade de Caxias do Sul; Rio de Janeiro: BNDES, 2014, p.523-557.](https://drive.google.com/file/d/1a-DzX7czySw6-WhXluNiCdzwPgYSSwLm/view?usp=sharing)
 
 
+</details></p>
 
 ---
-
----
+<details><summary>Aula 02: Fundamentos para os Direitos Humanos </summary>
+<p>
 
 ## ***Aula 02***
 
@@ -347,12 +350,10 @@ Realizada entre 14 e 25 de junho de 1993, a Conferência Mundial sobre Direitos 
 
 [STORCK, Alfredo. Direitos Humanos. In: TORRES, João Carlos Brum. **Manual de ética**: questões de ética teórica e aplicada. Petrópolis: Vozes; Caxias do Sul: Universidade de Caxias do Sul; Rio de Janeiro: BNDES, 2014, p.523-557.](https://drive.google.com/file/d/1a-DzX7czySw6-WhXluNiCdzwPgYSSwLm/view?usp=sharing)
 
-
-
----
-
+</details></p>
 
 ---
+
 
 ## ***Aula 03: “Consideramos estas verdades autoevidentes”. Lynn Hunt***
 
