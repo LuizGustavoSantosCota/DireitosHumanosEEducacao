@@ -1602,7 +1602,8 @@ Por fim, deve-se resgatar os diferentes processos de significação das identida
 
 As autoras iniciam o artigo comentando sobre o processo de universalização dos direitos humanos, especialmente a partir da Declaração de 1948, cujos fundamentos foram reafirmados em 1993, na chamada Conferência de Viena, em todas suas nuances, incluindo a correlação entre direitos humanos, democracia e desenvolvimento.
 
-###### <img src="https://i.imgur.com/Ixp91AL.png" style="zoom:150%" />Imagem da Conferência de Viena (1993)
+###### <img src="https://i.imgur.com/Ixp91AL.png" style="zoom:150%" />
+Imagem da Conferência de Viena (1993)
 
 Em relação ao Brasil, destaca-se como a Constituição de 1988 incorporou as discussões relativas ao campo dos direitos humanos de forma a tornar a defesa dos direitos fundamentais um elemento sistêmico da realidade brasileira, ao menos em termos formais, o que pode ainda ser perceptível no conjunto de normas legais construído desde então.
 
