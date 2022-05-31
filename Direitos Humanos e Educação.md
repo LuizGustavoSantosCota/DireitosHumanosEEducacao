@@ -7,11 +7,9 @@ Disciplina oferecida ao 7º período do curso de Pedagogia da UEMG, Unidade Barb
 
 ---
 
-[TOC]
-
-
 
 ---
+
 ## ***Aula 01***
 
 ### *Ementa da disciplina*
