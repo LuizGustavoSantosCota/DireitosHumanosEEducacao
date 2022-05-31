@@ -99,6 +99,7 @@ Segundo Alfredo Storck (2014),
 > o primeiro momento de declaração dos direitos humanos surge no momento de constituição do estado moderno e procura limitar a capacidade que teria o poder político estatal de intervir nas pretensões de auto determinação de indivíduos e de certos grupos sociais ou religiosos.
 
 Neste sentido, em fins do século XVIII, especialmente no esteio das revoluções estadunidense e francesa, se delineia o primeiro momento (ou geração) dos direitos humanos.
+
 ![](https://i.imgur.com/dDsfBMu.gif)
 
 ---
@@ -124,6 +125,7 @@ Neste sentido, em fins do século XVIII, especialmente no esteio das revoluçõe
 ### ***Instrumentos fundadores dos direitos políticos e civis*** 
 
 **A Declaração de Independência dos Estados Unidos e Constituição Americana (1776)**
+
 ![](https://i.imgur.com/FAH0L9p.gif)
 
 > “Quando no curso dos acontecimentos humanos, se torna necessário a povo dissolver os vínculos políticos que o ligavam a outro e assumir, entre os poderes da terra, posição separada e igual a que lhe dão direito as Leis da Natureza e dos Deus da Natureza, o digno respeito às opiniões da humanidade requer que eles declarem as causas que os impeliram à separação”.
@@ -1676,8 +1678,7 @@ Já o uruguaio Luis Pérez Aguirre (1986) afirma que:
 
 > “A educação em direitos humanos tem que ser aprendida como um processo rico e complexo, que garanta e respeite essa dialética que implicará sempre a conciliação necessária entre liberdade e tolerância, entre ordem e criatividade”.
 
-![](https://i.imgur.com/VNh084y.jpg)
-
+<img src="https://i.imgur.com/VNh084y.jpg" style="zoom:50%" />
 
 Na década de 1990, os estudos sobre a temática na AL construíram um consenso em torno das seguintes questões:
 
